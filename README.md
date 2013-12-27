@@ -9,4 +9,4 @@ Best used on a Guest User account. Open it first in Guest account. Then sleep yo
 
 
 
-You may not blame me if anything happens to your computer or files.
+You can not blame me if anything happens to your computer or files.
